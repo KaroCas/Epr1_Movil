@@ -176,7 +176,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="PROMEDIO EVA'S" />
+            android:text="PROMEDIO EVA" />
 
         <TextView
             android:layout_width="match_parent"
@@ -200,7 +200,7 @@
             android:layout_weight="1"
             android:inputType="textPersonName"
             android:singleLine="false"
-            android:text=" Promedio Eva's "
+            android:text=" Promedio Evas "
             android:visibility="visible" />
 
         <EditText
@@ -242,7 +242,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:text="PROMDEIO FINAL" />
+        android:text="PROMEDIO FINAL" />
 
     <EditText
         android:id="@+id/et_resulPromedioExamen"
